@@ -83,3 +83,30 @@ Ensure the following are installed:
 Python 3.7+
 
 Required Python libraries (specified in requirements.txt)
+
+Results
+
+Accuracy: 89%
+
+Precision: 85%
+
+Recall: 90%
+
+F1-Score: 87%
+
+Future Enhancements
+
+Extend the model to detect specific syndromes associated with abnormal chromosomes.
+
+Improve the web interface for batch image uploads.
+
+Deploy the application to a cloud platform for broader accessibility.
+
+Acknowledgments
+
+Dataset Source**: Provided by our project guide, P. Devika
+
+Frameworks Used:  
+  - TensorFlow/Keras for model building.  
+  - Flask for the web interface.  
+
