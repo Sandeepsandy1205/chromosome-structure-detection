@@ -82,7 +82,7 @@ Ensure the following are installed:
 
 Python 3.7+
 
-Required Python libraries (specified in requirements.txt)
+Required Python libraries 
 
 Results
 
