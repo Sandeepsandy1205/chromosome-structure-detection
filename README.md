@@ -64,7 +64,7 @@ Metrics such as accuracy, precision, recall, and F1-score were calculated to eva
 
 8. Web Interface
 
-A user-friendly web interface was developed using [Flask/Streamlit/Django (choose the one you used)].
+A user-friendly web interface was developed using [Flask].
 
 Features:
 
